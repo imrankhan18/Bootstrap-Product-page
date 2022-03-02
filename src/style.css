@@ -1,0 +1,46 @@
+.container-fluid{
+    
+}
+.foot{
+    margin-left: 5%;
+    margin-top:5%;
+}
+hr.transition {
+   margin-top: 50px;
+ }
+ .bg-dark{
+    border-radius: 6px;
+ }
+ .foot1{
+     margin-top: 15px;
+     padding:5px;
+
+ }
+ input{
+     width:180px;
+ }
+ .text-white-50{
+     padding-top: 10px;
+ }
+ #cont{
+     margin-left: 80px;
+     margin-top: 200px;
+     margin-bottom: 40px;
+ }
+#lastpage{
+    margin-top: 100px;
+ }
+ #desc{
+     margin-top: 70px;
+ }
+ #btn{
+     margin-top: 10px;
+ }
+ 
+ .star{
+    font-size: 150%; 
+    color: #f7d01c;
+ }
+ .lorem{
+     margin-top: 15px;
+ }
